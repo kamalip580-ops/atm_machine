@@ -102,16 +102,15 @@ python atm_machine.py
 
 ### Login Screen
 
-![Login Screen](images/Screenshot%20(116).png)
+![Login Screen](Screenshot%20(116).png)
 
 ### Dashboard
 
-![Dashboard](images/Screenshot%20(117).png)
+![Dashboard](Screenshot%20(117).png)
 
 ### Transaction History
 
-![Transaction History](images/Screenshot%20(118).png)
-
+![Transaction History](Screenshot%20(118).png)
 
 ## 🎯 Future Improvements
 
