@@ -98,21 +98,6 @@ python atm_machine.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-images/login.png
-images/dashboard.png
-images/transaction.png
-```
-
----
-
-
 ## 📸 Application Screenshots
 
 ### Login Screen
