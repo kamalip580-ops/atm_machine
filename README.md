@@ -112,6 +112,22 @@ images/transaction.png
 
 ---
 
+
+## 📸 Application Screenshots
+
+### Login Screen
+
+![Login Screen](images/Screenshot%20(116).png)
+
+### Dashboard
+
+![Dashboard](images/Screenshot%20(117).png)
+
+### Transaction History
+
+![Transaction History](images/Screenshot%20(118).png)
+
+
 ## 🎯 Future Improvements
 
 - SQLite/MySQL Database Integration
